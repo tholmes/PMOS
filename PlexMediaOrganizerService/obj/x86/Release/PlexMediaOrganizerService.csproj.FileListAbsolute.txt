@@ -1,0 +1,9 @@
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\PlexMediaOrganizerService\PlexMediaOrganizerService\bin\Release\PlexMediaOrganizerService.exe
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\PlexMediaOrganizerService\PlexMediaOrganizerService\bin\Release\PlexMediaOrganizerService.pdb
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\PlexMediaOrganizerService\PlexMediaOrganizerService\obj\x86\Release\PlexMediaOrganizerService.csproj.GenerateResource.Cache
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\PlexMediaOrganizerService\PlexMediaOrganizerService\obj\x86\Release\PlexMediaOrganizerService.exe
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\PlexMediaOrganizerService\PlexMediaOrganizerService\obj\x86\Release\PlexMediaOrganizerService.pdb
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\PlexMediaOrganizerService\PlexMediaOrganizerService\obj\x86\Release\PMOS.ScheduledService.resources
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\PlexMediaOrganizerService\PlexMediaOrganizerService\obj\x86\Release\PMOS.ProjectInstaller.resources
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\PMOS\PlexMediaOrganizerService\obj\x86\Release\PlexMediaOrganizerService.exe
+C:\Users\Tim\Documents\Visual Studio 2010\Projects\PMOS\PlexMediaOrganizerService\obj\x86\Release\PlexMediaOrganizerService.pdb
